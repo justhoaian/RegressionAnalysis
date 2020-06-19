@@ -1,0 +1,32 @@
+province,confirmed cases,recovered cases,F0 (quarantined),F0(social),F1,Fn,Region
+Hà N?i,121,114,57,6,7,51,North
+H? Chí Minh,60,57,34,6,4,16,South
+Thái Bình,30,29,30,0,0,0,North
+B?c Liêu,21,21,21,0,0,0,South
+Vinh Phúc,19,19,7,5,6,1,North
+Ninh Bình,13,13,12,0,0,1,North
+Bình Thu?n,9,9,0,1,8,0,South
+Qu?ng Ninh,9,9,4,5,0,0,North
+Bà R?a - Vung Tàu,9,0,9,0,0,0,South
+Ðà N?ng,6,6,3,2,1,0,Central
+Ð?ng Tháp,6,5,6,0,0,0,South
+Qu?ng Nam,5,3,2,3,0,0,Central
+Hà Nam,4,4,0,0,0,4,North
+Hà Tinh,4,4,4,0,0,0,North
+H?i Duong,4,3,4,0,0,0,North
+Tây Ninh,4,4,4,0,0,0,South
+B?c Giang,4,4,4,0,0,0,North
+Thanh Hóa,3,3,2,1,0,0,North
+C?n Tho,2,2,2,0,0,0,South
+Lào Cai,2,2,0,2,0,0,North
+Ninh Thu?n,2,2,0,2,0,0,Central
+Th?a Thiên - Hu?,2,2,0,1,1,0,Central
+Trà Vinh,2,2,2,0,0,0,South
+Ð?ng Nai,1,1,0,0,0,1,South
+Hà Giang,1,1,0,0,0,1,North
+B?c Ninh,1,1,1,0,0,0,North
+B?n Tre,1,1,1,0,0,0,South
+Hung Yên,1,1,0,0,0,1,North
+Khánh Hòa,1,1,0,0,1,0,Central
+Lai Châu,1,1,0,0,0,1,North
+Thái Nguyên,1,1,0,0,0,1,North
