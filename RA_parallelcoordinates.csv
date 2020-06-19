@@ -1,32 +1,32 @@
 province,confirmed cases,recovered cases,F0 (quarantined),F0(social),F1,Fn,Region
-Hà Nội,121,114,57,6,7,51,North
-Hồ Chí Minh,60,57,34,6,4,16,South
-Thái Bình,30,29,30,0,0,0,North
-Bạc Liêu,21,21,21,0,0,0,South
-Vĩnh Phúc,19,19,7,5,6,1,North
-Ninh Bình,13,13,12,0,0,1,North
-Bình Thuận,9,9,0,1,8,0,South
-Quảng Ninh,9,9,4,5,0,0,North
-Bà Rịa - Vung Tàu,9,0,9,0,0,0,South
-Ðà Nẵng,6,6,3,2,1,0,Central
-Ðồng Tháp,6,5,6,0,0,0,South
-Quảng Nam,5,3,2,3,0,0,Central
-Hà Nam,4,4,0,0,0,4,North
-Hà Tinh,4,4,4,0,0,0,North
-Hải Duong,4,3,4,0,0,0,North
-Tây Ninh,4,4,4,0,0,0,South
-Bắc Giang,4,4,4,0,0,0,North
-Thanh Hóa,3,3,2,1,0,0,North
-Cần Tho,2,2,2,0,0,0,South
-Lào Cai,2,2,0,2,0,0,North
-Ninh Thuận,2,2,0,2,0,0,Central
-Thừa Thiên - Huế,2,2,0,1,1,0,Central
-Trà Vinh,2,2,2,0,0,0,South
-Ðồng Nai,1,1,0,0,0,1,South
-Hà Giang,1,1,0,0,0,1,North
-Bắc Ninh,1,1,1,0,0,0,North
-Bến Tre,1,1,1,0,0,0,South
-Hưng Yên,1,1,0,0,0,1,North
-Khánh Hòa,1,1,0,0,1,0,Central
-Lai Châu,1,1,0,0,0,1,North
-Thái Nguyên,1,1,0,0,0,1,North
+Ha Noi,121,114,57,6,7,51,North
+Ho Chi Minh,60,57,34,6,4,16,South
+Thai Binh,30,29,30,0,0,0,North
+Bac Lieu,21,21,21,0,0,0,South
+Vinh Phuc,19,19,7,5,6,1,North
+Ninh Binh,13,13,12,0,0,1,North
+Binh Thuan,9,9,0,1,8,0,South
+Quang Ninh,9,9,4,5,0,0,North
+Ba Ria - Vung Tau,9,0,9,0,0,0,South
+Da Nang,6,6,3,2,1,0,Central
+Dong Thap,6,5,6,0,0,0,South
+Quang Nam,5,3,2,3,0,0,Central
+Ha Nam,4,4,0,0,0,4,North
+Ha Tinh,4,4,4,0,0,0,North
+Hai Duong,4,3,4,0,0,0,North
+Tay Ninh,4,4,4,0,0,0,South
+Bac Giang,4,4,4,0,0,0,North
+Thanh Hoa,3,3,2,1,0,0,North
+Can Tho,2,2,2,0,0,0,South
+Lao Cai,2,2,0,2,0,0,North
+Ninh Thuan,2,2,0,2,0,0,Central
+Thua Thien - Hue,2,2,0,1,1,0,Central
+Tra Vinh,2,2,2,0,0,0,South
+Dong Nai,1,1,0,0,0,1,South
+Ha Giang,1,1,0,0,0,1,North
+Bac Ninh,1,1,1,0,0,0,North
+Ben Tre,1,1,1,0,0,0,South
+Hung Yen,1,1,0,0,0,1,North
+Khanh Hoa,1,1,0,0,1,0,Central
+Lai Chau,1,1,0,0,0,1,North
+Thai Nguyen,1,1,0,0,0,1,North
